@@ -22,7 +22,7 @@ window.addEventListener('scroll', () => {
 });
 
 // control tipeado consola titulo
-consoleText(['Soy Facundo Pestana'], 'txtPresentacion');
+consoleText(['Soy Facundo Pestana'],'txtPresentacion');
 
 function consoleText(words, id) {
   var visible = true;
